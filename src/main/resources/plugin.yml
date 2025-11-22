@@ -1,0 +1,4 @@
+name: PlayerDataStorage
+version: '1.0-SNAPSHOT'
+main: org.nimawoods.playerDataStorage.PlayerDataStorage
+api-version: '1.21'
